@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   title: "Nimish Bhardwaj",
   description: "Created with Next.js, Tailwind CSS, and TypeScript",
   icons: {
-    icon: "/Images/upstream_13.png"
+    icon: "/Images/upstream_13.ico"
   }
 };
 

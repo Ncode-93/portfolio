@@ -33,7 +33,7 @@ export default function Home() {
   ]
   return (
     <div className="flex items-center justify-center h-full bg-red-200 dark:bg-gray-900">
-      <div className="w-3/4 md:w-1/2 lg:w-1/3 xl:w-1/2 bg-white dark:bg-gray-800 p-8 h-full text-center text-black dark:text-white text-lg font-semibold rounded-lg shadow-lg"> <div className="absolute top-4 right-4">
+      <div className="w-3/4 md:w-1/2 laptop:w-1/2 desktop:w-1/2 bg-white dark:bg-gray-800 p-8 h-full text-center text-black dark:text-white text-lg font-semibold rounded-lg shadow-lg"> <div className="absolute top-4 right-4">
         <ModeToggle />
       </div>
         <div className="flex flex-col sm:flex-row items-center sm:items-start gap-4 sm:gap-6">
@@ -46,9 +46,9 @@ export default function Home() {
         </div>
         <hr className="my-4 sm:my-6 md:my-8 lg:my-12 xl:my-14 border-zinc-500 dark:border-zinc-600" />
         <div className="mt-2 ">
-          <p className="leading-relaxed text-zinc-400 dark:text-zinc-300 text-sm sm:text-base">I'm Nimish, 2025 college graduate and software engineer with a passion for creating scalable and durable systems. I love problem-solving and diving deep into complex topics. When I'm not coding, you'll find me watching cricket, anime or binge-watching TV shows. Let's collaborate and build something exceptional together!
+          <p className="leading-relaxed text-zinc-400 dark:text-zinc-300 text-sm sm:text-base">I&apos;m Nimish, a recent college graduate and frontend engineer with a passion for creating scalable and durable systems for web applications. I love problem-solving and diving deep into complex topics. When I&apos;m not coding, you&apos;ll find me watching esports, cricket and binge-watching TV shows. Let&apos;s collaborate and build something exceptional together!
           </p>
-          <p className="mt-3"> Hiring? Here's my <a href="https://drive.google.com/file/d/1EQkZjWYiBDAuksp-t4RGpbYBA2-hZXt_/view?usp=sharing" target="_blank" className="text-green-400 dark:text-green-300">resume</a></p>
+          <p className="mt-3"> Hiring? Here&apos; my <a href="https://drive.google.com/file/d/1EQkZjWYiBDAuksp-t4RGpbYBA2-hZXt_/view?usp=sharing" target="_blank" className="text-green-400 dark:text-green-300">resume</a></p>
 
         </div>
         <div className="mt-10 p-3 rounded-lg text-left">
