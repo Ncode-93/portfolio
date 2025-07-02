@@ -48,7 +48,7 @@ export default function Home() {
         <div className="mt-2 ">
           <p className="leading-relaxed text-zinc-400 dark:text-zinc-300 text-sm sm:text-base">I&apos;m Nimish, a recent college graduate and frontend engineer with a passion for creating scalable and durable systems for web applications. I love problem-solving and diving deep into complex topics. When I&apos;m not coding, you&apos;ll find me watching esports, cricket and binge-watching TV shows. Let&apos;s collaborate and build something exceptional together!
           </p>
-          <p className="mt-3"> Hiring? Here&apos; my <a href="https://drive.google.com/file/d/1EQkZjWYiBDAuksp-t4RGpbYBA2-hZXt_/view?usp=sharing" target="_blank" className="text-green-400 dark:text-green-300">resume</a></p>
+          <p className="mt-3"> Hiring? Here&apos; my <a href="https://drive.google.com/file/d/15w1BvWc8NkRKO1_PVR7pcow4eF7ZyJ61/view?usp=sharing" target="_blank" className="text-green-400 dark:text-green-300">resume</a></p>
 
         </div>
         <div className="mt-10 p-3 rounded-lg text-left">
